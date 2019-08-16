@@ -24,6 +24,5 @@ https://douban-api-docs.zce.me
 More information
 ---
 PPT: https://pan.baidu.com/s/1OivhNLLG2exiZ_A1TSenGA  
-Code:packToOldTan  
-![Alt text](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/2.png)  
+Code: packToOldTan     
 ![image](https://github.com/StuTan/MovieCalendar/blob/master/images/main.png)
