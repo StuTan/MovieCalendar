@@ -20,3 +20,7 @@ Resources
 https://github.com/byztl/ReactNativeDemo  
 https://www.metaweather.com/api/  
 https://douban-api-docs.zce.me
+
+More information
+---
+PPT: https://pan.baidu.com/s/1OivhNLLG2exiZ_A1TSenGA
